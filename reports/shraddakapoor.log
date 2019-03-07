@@ -1,0 +1,12 @@
+2019-03-07 11:41:42,850 [main] WARN demo - waring msg
+2019-03-07 11:41:42,853 [main] ERROR demo - error msg
+2019-03-07 11:41:42,853 [main] INFO demo - infomation msg
+2019-03-07 11:41:42,854 [main] FATAL demo - fatal msg
+2019-03-07 12:34:19,968 [main] WARN demo - waring msg
+2019-03-07 12:34:20,963 [main] ERROR demo - error msg
+2019-03-07 12:34:22,487 [main] INFO demo - infomation msg
+2019-03-07 12:34:24,199 [main] FATAL demo - fatal msg
+2019-03-07 12:36:47,393 [main] WARN demo - waring msg
+2019-03-07 12:36:47,397 [main] ERROR demo - error msg
+2019-03-07 12:36:47,397 [main] INFO demo - infomation msg
+2019-03-07 12:36:47,398 [main] FATAL demo - fatal msg
