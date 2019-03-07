@@ -18,8 +18,8 @@ public class demo2
 		EventFiringWebDriver driver = new EventFiringWebDriver(d);
 		driver.register(new demo1());
 		//Assert.fail();
-		driver.get("htdftps://www.google.com");
-		//driver.close();
+		driver.get("https://www.google.com");
+		driver.close();
 		
 	}
 
